@@ -50,3 +50,4 @@ Use the appropriate launch file to start the robot in Gazebo. Based on the ros_k
 ```bash
 roslaunch kortex_gazebo spawn_kortex_robot.launch
 ```
+Refer to the [`ros_kortex`](https://github.com/Kinovarobotics/ros_kortex) package for the next steps.
