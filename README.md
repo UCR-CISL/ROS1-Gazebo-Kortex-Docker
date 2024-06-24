@@ -50,11 +50,3 @@ Use the appropriate launch file to start the robot in Gazebo. Based on the ros_k
 ```bash
 roslaunch kortex_gazebo spawn_kortex_robot.launch
 ```
-
-For any further assistance, feel free to create an issue in this repository.
-
-   - If you are using a Git GUI client, add the `README.md` file to the repository and commit it with a message like "Add README file".
-
-6. **Push your changes to GitHub**.
-
-This will add the `README.md` file to your repository and make it available on GitHub.
